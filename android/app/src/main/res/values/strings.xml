@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Simple API Consumer</string>
+    <string name="tab_star_wars">Star Wars</string>
+    <string name="tab_marvel">Marvel</string>
+</resources>

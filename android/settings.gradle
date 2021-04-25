@@ -1,0 +1,4 @@
+include ':domain'
+include ':simple-api-client'
+include ':app'
+rootProject.name = "Simple API Consumer"
